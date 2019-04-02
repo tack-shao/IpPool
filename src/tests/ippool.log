@@ -1,0 +1,21 @@
+2019-03-23 00:36:46,894 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpPool.py[line:40] - INFO: IpPool子进程结束
+2019-03-23 00:37:18,350 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpPool.py[line:50] - INFO: 子进程启动
+2019-03-23 00:37:18,350 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpPool.py[line:61] - INFO: 检测ip池
+2019-03-23 00:37:18,359 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpPool.py[line:64] - INFO: 需要检测160条记录
+2019-03-23 00:37:45,419 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpPool.py[line:69] - INFO: 完成检测, 当前ip数: 131
+2019-03-23 00:37:45,420 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpPool.py[line:71] - INFO: ip池 余额不足 充值
+2019-03-23 00:37:45,744 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:198] - ERROR: (1062, "Duplicate entry '39.137.69.8' for key 'ip_ip'")
+2019-03-23 00:37:45,759 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:198] - ERROR: (1062, "Duplicate entry '218.57.146.212' for key 'ip_ip'")
+2019-03-23 00:37:45,841 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:198] - ERROR: (1062, "Duplicate entry '39.134.67.76' for key 'ip_ip'")
+2019-03-23 00:37:45,844 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:198] - ERROR: (1062, "Duplicate entry '39.134.66.73' for key 'ip_ip'")
+2019-03-23 00:37:51,677 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:147] - INFO: 已保存5条
+2019-03-23 00:37:52,015 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:198] - ERROR: (1062, "Duplicate entry '218.17.21.138' for key 'ip_ip'")
+2019-03-23 00:37:52,093 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:198] - ERROR: (1062, "Duplicate entry '117.131.235.198' for key 'ip_ip'")
+2019-03-23 00:37:58,127 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:147] - INFO: 已保存11条
+2019-03-23 00:38:01,317 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:198] - ERROR: (1062, "Duplicate entry '124.200.105.154' for key 'ip_ip'")
+2019-03-23 00:38:07,654 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:147] - INFO: 已保存18条
+2019-03-23 00:38:13,732 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:147] - INFO: 已保存27条
+2019-03-23 00:38:14,070 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:198] - ERROR: (1062, "Duplicate entry '123.123.255.77' for key 'ip_ip'")
+2019-03-23 00:38:14,110 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:198] - ERROR: (1062, "Duplicate entry '49.87.147.55' for key 'ip_ip'")
+2019-03-23 00:38:14,231 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpSpider.py[line:198] - ERROR: (1062, "Duplicate entry '39.134.66.235' for key 'ip_ip'")
+2019-03-23 00:38:15,410 - /Users/tack/Documents/code/python/Spider/MangaCrawler/IpPool/src/spider/IpPool.py[line:40] - INFO: IpPool子进程结束
