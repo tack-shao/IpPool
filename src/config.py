@@ -38,7 +38,7 @@ class DevConfig(Config):
         "host": "127.0.0.1",
         "port": 3306,
         "user": "root",
-        "passwd": "Jk_ds_mysql9090.jd"
+        "passwd": os.environ.get("SERV_MYSQL_PASSWD")
     }
 
 
@@ -49,10 +49,10 @@ class TestConfig(Config):
     DATABASE = {
         "name": "ip_pool",
         "engine": "peewee.MySQLDatabase",
-        "host": "127.0.0.1",
-        "port": 3306,
-        "user": "root",
-        "passwd": "Jk_ds_mysql9090.jd"
+        "host": os.environ.get("SERV_SSH_HOST"),
+        "port": os.environ.get("3306"),
+        "user": os.environ.get("SERV_MYSQL_USER"),
+        "passwd": os.environ.get("SERV_MYSQL_PASSWD")
     }
 
 
@@ -62,10 +62,10 @@ class ProdConfig(Config):
     DATABASE = {
         "name": "ip_pool",
         "engine": "peewee.MySQLDatabase",
-        "host": "127.0.0.1",
-        "port": 3306,
-        "user": "root",
-        "passwd": "Jk_ds_mysql9090.jd"
+        "host": os.environ.get("SERV_SSH_HOST"),
+        "port": os.environ.get("3306"),
+        "user": os.environ.get("SERV_MYSQL_USER"),
+        "passwd": os.environ.get("SERV_MYSQL_PASSWD")
     }
 
     @classmethod
