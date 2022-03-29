@@ -27,7 +27,7 @@ Mako==1.0.8
 MarkupSafe==1.1.1
 marshmallow==2.19.1
 Marshmallow-Peewee==2.2.0
-paramiko==2.4.2
+paramiko==2.10.1
 peewee==3.9.2
 pyasn1==0.4.5
 pycparser==2.19
